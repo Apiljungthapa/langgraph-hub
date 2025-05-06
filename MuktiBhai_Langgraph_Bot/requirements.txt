@@ -1,0 +1,9 @@
+langgraph
+python-dotenv
+langchain_community
+langchain
+langchain-google-genai
+langchain_openai
+pinecone[grpc]
+fastapi
+uvicorn
