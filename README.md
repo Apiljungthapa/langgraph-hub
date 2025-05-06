@@ -71,6 +71,4 @@ An intelligent banking assistant designed to provide personalized financial guid
    - Database systems
    - Authentication services
 
-# Edit .env with your API keys and configuration
-
 
